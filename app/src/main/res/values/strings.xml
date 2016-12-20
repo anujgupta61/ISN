@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ISNapp</string>
+    <string name="wlcm_screen_message">Move in with your interest</string>
+    <string name="wlcm_screen_btn">Move</string>
+</resources>

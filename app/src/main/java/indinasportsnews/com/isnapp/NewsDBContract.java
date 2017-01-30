@@ -12,7 +12,8 @@ public final class NewsDBContract {
         public static final String COLUMN_NAME_TITLE = "title" ;
         public static final String COLUMN_NAME_INTROTEXT = "introtext" ;
         public static final String COLUMN_NAME_FULLTEXT = "fulltext" ;
-        public static final String COLUMN_NAME_DATE = "date" ;
+        //public static final String COLUMN_NAME_DATE = "date" ;
+        public static final String COLUMN_NAME_ICON_PATH = "icon_path" ;
     }
 
 }

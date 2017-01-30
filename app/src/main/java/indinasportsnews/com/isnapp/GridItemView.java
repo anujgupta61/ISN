@@ -1,17 +1,18 @@
 package indinasportsnews.com.isnapp;
 
 import android.content.Context;
+import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
 class GridItemView extends FrameLayout {
 
-    private TextView textView;
+    private TextView textView ;
 
     public GridItemView(Context context) {
         super(context);
-        LayoutInflater.from(context).inflate(R.layout.sports_selection, this);
+        LayoutInflater.from(context).inflate(R.layout.item_grid , this);
         textView = (TextView) getRootView().findViewById(R.id.text);
     }
 
@@ -21,6 +22,10 @@ class GridItemView extends FrameLayout {
     }
 
     public void display(boolean isSelected) {
-        textView.setBackgroundResource(isSelected ? R.drawable.square1 : R.drawable.square2);
+        if(isSelected) {
+            textView.setBackgroundColor(ContextCompat.getColor(getContext(), R.color.colorPrimaryDark));
+        } else {
+            textView.setBackgroundColor(ContextCompat.getColor(getContext(), R.color.skyblue));
+        }
     }
 }

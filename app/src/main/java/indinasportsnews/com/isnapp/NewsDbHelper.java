@@ -9,12 +9,13 @@ public class NewsDbHelper extends SQLiteOpenHelper {
     public static final String DATABASE_NAME = "isn.db" ;
     public static final String SQL_CREATE_ENTRIES =
             "CREATE TABLE IF NOT EXISTS " + NewsDBContract.NewsEntry.TABLE_NAME + " (" +
-                    NewsDBContract.NewsEntry.COLUMN_NAME_ID + " INTEGER ," +
+                    NewsDBContract.NewsEntry.COLUMN_NAME_ID + " INTEGER PRIMARY KEY ," +
                     NewsDBContract.NewsEntry.COLUMN_NAME_CATID + " INTEGER ," +
                     NewsDBContract.NewsEntry.COLUMN_NAME_TITLE + " VARCHAR(255) ," +
                     NewsDBContract.NewsEntry.COLUMN_NAME_INTROTEXT + " TEXT ," +
                     NewsDBContract.NewsEntry.COLUMN_NAME_FULLTEXT + " TEXT ," +
-                    NewsDBContract.NewsEntry.COLUMN_NAME_DATE + " DATETIME " + " ) ;" ;
+                    NewsDBContract.NewsEntry.COLUMN_NAME_ICON_PATH + " TEXT " +
+                    /*NewsDBContract.NewsEntry.COLUMN_NAME_DATE + " VARCHAR(25) " +*/ " ) ;" ;
 
     private static final String SQL_DELETE_ENTRIES1 =
             "DROP TABLE IF EXISTS " + NewsDBContract.NewsEntry.TABLE_NAME ;

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "454489767850",
+    "firebase_url": "https://isnapp-24e2f.firebaseio.com",
+    "project_id": "isnapp-24e2f",
+    "storage_bucket": "isnapp-24e2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454489767850:android:9c61e2f2560eaabd",
+        "android_client_info": {
+          "package_name": "indinasportsnews.com.isnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454489767850-n1lfh5f587ebcr59u1snq25vrftdh2lt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "indinasportsnews.com.isnapp",
+            "certificate_hash": "4B1607C3716D5BA08971AB6E6DADD3A4CAFE086B"
+          }
+        },
+        {
+          "client_id": "454489767850-m8hcaon7avhvnd044h4irpto0j2ok0fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCngr8ZMMekEUZJATAEgMDXwWaYAUMKxX4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454489767850-m8hcaon7avhvnd044h4irpto0j2ok0fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+ISN is an Android application which is based on website http://www.indiansportsnews.com/ . This application fetches sports news data from remote database (used by website) and display that data in user-friendly manner .

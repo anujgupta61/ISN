@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ISNapp.iml" filepath="$PROJECT_DIR$/ISNapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISN.iml" filepath="$PROJECT_DIR$/ISN.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

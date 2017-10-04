@@ -2,56 +2,97 @@
 <instant-run
     abi="armeabi-v7a,armeabi"
     api-level="22"
+    build-mode="COLD"
     density="xhdpi"
-    format="8"
-    plugin-version="2.2.3"
-    timestamp="3255373076722"
-    token="-7562059530509768585"
+    format="10"
+    plugin-version="2.3.3"
+    timestamp="1502813401309"
+    token="1046701963001617429"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="271" />
+        duration="2085" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="10" />
+        duration="847" />
     <task
         name="verifier"
-        duration="0" />
+        duration="57" />
 
     <artifact
-        location="/home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-        type="DEX" />
+        location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/anuj/AndroidStudioProjects/ISN/app/build/outputs/apk/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
-        timestamp="1445659840503"
+        build-mode="FULL"
+        timestamp="1502813063431"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/anuj/AndroidStudioProjects/ISNapp/app/build/outputs/apk/app-debug.apk"
-            type="MAIN" />
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
     </build>
     <build
-        timestamp="2995135497151"
+        build-mode="COLD"
+        timestamp="1502813401309"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
         <artifact
-            location="/home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
         <artifact
-            location="/home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="3255373076722"
-        verifier="COLD_SWAP_REQUESTED" >
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
         <artifact
-            location="/home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
+            location="/home/anuj/AndroidStudioProjects/ISN/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

@@ -92,6 +92,7 @@ public class DetailedNews extends AppCompatActivity {
 
             }
             */
+            /*
             WebView webview = (WebView) findViewById(R.id.news_web_view) ;
             String url = "http://www.indiansportsnews.com/" + newsIcon.replaceAll("\\\\", "") ;
             //String url = newsIcon ;
@@ -101,6 +102,7 @@ public class DetailedNews extends AppCompatActivity {
             webViewSettings.setJavaScriptEnabled(true);
             webview.loadData(html, "text/html", null);
             fetch() ;
+            */
         }
         FloatingActionButton sharebutton = (FloatingActionButton) findViewById(sharebtn);
 
@@ -203,7 +205,7 @@ public class DetailedNews extends AppCompatActivity {
                 try {
 
                     // Defined URL  where to send data
-                    URL url = new URL("http://www.indiansportsnews.com/static/fetch_recent_news.php");
+                    URL url = new URL("https://anujgupta200463.000webhostapp.com/fetch_recent_news.php");
 
                     // Send POST data request
 

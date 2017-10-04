@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "/home/anuj/AndroidStudioProjects/ISN/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/res/values/values.xml",
+                    "file": "/home/anuj/.android/build-cache/7df77aa7e8f04f691debe2c2c8fe2d7186070756/output/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

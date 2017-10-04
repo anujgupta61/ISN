@@ -1,235 +1,235 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:2:1-31:12
+ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:3:5-42
-		INJECTED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:5:5-67
-MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:21:5-67
+ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/anuj/.android/build-cache/66c8f0906b79296001227c318f4991e13073c071/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:6:5-79
-MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:20:5-79
+ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/anuj/.android/build-cache/66c8f0906b79296001227c318f4991e13073c071/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:20:5-79
 	android:name
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:8:5-29:19
-MERGED from [com.android.support:design:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.firebase:firebase-core:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.0.0/AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:26:5-41:19
-MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/AndroidManifest.xml:26:5-41:19
-MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:30:5-59:19
-MERGED from [com.google.firebase:firebase-common:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:5:5-12:19
-MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:8:5-29:19
+MERGED from [com.android.support:design:25.1.0] /home/anuj/.android/build-cache/a54ab9268977df15f98609eacdd60e9a3197c078/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/anuj/.android/build-cache/ffc448944d1ff5e2f889883b82434ad0abbee7a7/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/anuj/.android/build-cache/4ee971413feee94d4a564c9085d2d43f1d16da0f/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/anuj/.android/build-cache/04a1ee288d3914f839fae94541c06ac34708df70/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.0] /home/anuj/.android/build-cache/7ad82291e3ed5e950b0c8fb74c90041abc91bbc2/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-core:9.0.0] /home/anuj/.android/build-cache/61c46bfc52bad0340ab43c96a47102f458a43bd5/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/anuj/.android/build-cache/66c8f0906b79296001227c318f4991e13073c071/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/anuj/.android/build-cache/0758ed24d15d9e56aa2b0704aed554192a095f79/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/anuj/.android/build-cache/4f5032031cd5e3fb8af3d45f948919ae949f6877/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/anuj/.android/build-cache/f23dc0d1a02afab2847547ee2f8969c4b376cefe/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/anuj/.android/build-cache/f937f0ad0611e0304d7d98833814bff79aad00e0/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.1.0] /home/anuj/.android/build-cache/4c723260413add16a947b7e0520d339bd2809159/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/anuj/.android/build-cache/aab48dada8a9b30a4404ccb49d9775b4b9ffbbca/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/anuj/.android/build-cache/679a87632a5a0566691fdab6ac97b73185c92abb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/anuj/.android/build-cache/594829a7a9f44094c9125965894b6f720d0ec042/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/anuj/.android/build-cache/32f1d3e539185faf63631d3385aee2e61cf81aa6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/anuj/.android/build-cache/03c241e7ef525e7f5a726e555f2a77c3d19042c0/output/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:11:9-41
 	android:supportsRtl
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:12:9-35
 	android:hardwareAccelerated
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:13:9-43
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:9:9-35
 	android:icon
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:10:9-43
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:10:9-43
 	android:theme
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:14:9-40
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:14:9-40
 activity#indinasportsnews.com.isnapp.MainActivity
-ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:15:9-22:20
+ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:15:9-22:20
 	android:name
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:16:13-41
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:16:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:17:13-21:29
+ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:18:17-69
+ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:18:25-66
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:20:17-77
+ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:20:27-74
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:20:27-74
 activity#indinasportsnews.com.isnapp.Welcome
-ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:23:9-45
+ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:23:9-45
 	android:name
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:23:19-42
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:23:19-42
 activity#indinasportsnews.com.isnapp.DetailedNews
-ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:24:9-50
+ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:24:9-50
 	android:name
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:24:19-47
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:24:19-47
 activity#indinasportsnews.com.isnapp.SportNews
-ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:25:9-47
+ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:25:9-47
 	android:name
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:25:19-44
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:25:19-44
 activity#indinasportsnews.com.isnapp.SportsSelection
-ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:26:9-53
+ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:26:9-53
 	android:name
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:26:19-50
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:26:19-50
 service#indinasportsnews.com.isnapp.MyService
-ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:28:9-46
+ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:28:9-46
 	android:name
-		ADDED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml:28:18-43
+		ADDED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml:28:18-43
 uses-sdk
-INJECTED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:multidex:1.0.1] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:design:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-core:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.0.0/AndroidManifest.xml:4:5-42
-MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.firebase:firebase-common:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /home/anuj/.android/build-cache/70e010cd45511bc8bcb96f269a60d269acb9489b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:25.1.0] /home/anuj/.android/build-cache/a54ab9268977df15f98609eacdd60e9a3197c078/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/anuj/.android/build-cache/ffc448944d1ff5e2f889883b82434ad0abbee7a7/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/anuj/.android/build-cache/4ee971413feee94d4a564c9085d2d43f1d16da0f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/anuj/.android/build-cache/04a1ee288d3914f839fae94541c06ac34708df70/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/anuj/.android/build-cache/00b9ceacc4d736173eeb96729d976402bb329487/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] /home/anuj/.android/build-cache/7ad82291e3ed5e950b0c8fb74c90041abc91bbc2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:9.0.0] /home/anuj/.android/build-cache/61c46bfc52bad0340ab43c96a47102f458a43bd5/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/anuj/.android/build-cache/66c8f0906b79296001227c318f4991e13073c071/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /home/anuj/.android/build-cache/0758ed24d15d9e56aa2b0704aed554192a095f79/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] /home/anuj/.android/build-cache/4f5032031cd5e3fb8af3d45f948919ae949f6877/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /home/anuj/.android/build-cache/f23dc0d1a02afab2847547ee2f8969c4b376cefe/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /home/anuj/.android/build-cache/f937f0ad0611e0304d7d98833814bff79aad00e0/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.1.0] /home/anuj/.android/build-cache/4c723260413add16a947b7e0520d339bd2809159/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/anuj/.android/build-cache/aab48dada8a9b30a4404ccb49d9775b4b9ffbbca/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/anuj/.android/build-cache/679a87632a5a0566691fdab6ac97b73185c92abb/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/anuj/.android/build-cache/594829a7a9f44094c9125965894b6f720d0ec042/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/anuj/.android/build-cache/32f1d3e539185faf63631d3385aee2e61cf81aa6/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/anuj/.android/build-cache/03c241e7ef525e7f5a726e555f2a77c3d19042c0/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.1.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.1.0] /home/anuj/.android/build-cache/a54ab9268977df15f98609eacdd60e9a3197c078/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/anuj/AndroidStudioProjects/ISNapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anuj/AndroidStudioProjects/ISN/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:22:5-68
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/anuj/.android/build-cache/66c8f0906b79296001227c318f4991e13073c071/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:22:5-68
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:24:22-65
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:24:22-65
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:28:7-34:18
-MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/AndroidManifest.xml:28:7-34:18
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/anuj/.android/build-cache/66c8f0906b79296001227c318f4991e13073c071/output/AndroidManifest.xml:28:7-34:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:30:11-33
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:30:11-33
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:29:11-83
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:29:11-83
 intent-filter#com.google.android.gms.measurement.UPLOAD
-ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:31:9-33:25
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:31:9-33:25
 action#com.google.android.gms.measurement.UPLOAD
-ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:32:11-77
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:32:11-77
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:32:19-75
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:32:19-75
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:36:7-39:37
-MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/AndroidManifest.xml:36:7-39:37
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /home/anuj/.android/build-cache/66c8f0906b79296001227c318f4991e13073c071/output/AndroidManifest.xml:36:7-39:37
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:38:11-33
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:38:11-33
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:39:11-35
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:39:11-35
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/AndroidManifest.xml:37:11-82
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /home/anuj/.android/build-cache/0b6411538e2fa6bce2940bf27e348e7a18ebb682/output/AndroidManifest.xml:37:11-82
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:20:9-22:45
+ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/anuj/.android/build-cache/0758ed24d15d9e56aa2b0704aed554192a095f79/output/AndroidManifest.xml:20:9-22:45
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:22:19-43
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/anuj/.android/build-cache/0758ed24d15d9e56aa2b0704aed554192a095f79/output/AndroidManifest.xml:22:19-43
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:21:19-78
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/anuj/.android/build-cache/0758ed24d15d9e56aa2b0704aed554192a095f79/output/AndroidManifest.xml:21:19-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/AndroidManifest.xml:20:19-85
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /home/anuj/.android/build-cache/0758ed24d15d9e56aa2b0704aed554192a095f79/output/AndroidManifest.xml:20:19-85
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:23:5-82
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:23:5-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:23:22-79
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:23:22-79
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:25:5-26:47
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:25:5-26:47
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:26:9-44
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:26:9-44
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:25:17-71
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:25:17-71
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:28:5-79
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:28:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:28:22-76
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:28:22-76
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:32:9-41:20
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:32:9-41:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:34:13-36
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:34:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:35:13-73
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:35:13-73
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:33:13-78
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:33:13-78
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:36:13-40:29
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:36:13-40:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:37:17-81
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:37:17-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:37:25-78
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:37:25-78
 action#com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:38:17-86
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:38:17-86
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:38:25-83
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:38:25-83
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:39:17-61
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:39:17-61
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:39:27-58
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:39:27-58
 receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:45:9-47:40
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:45:9-47:40
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:47:13-37
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:46:13-86
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:46:13-86
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:51:9-57:19
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:51:9-57:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:53:13-36
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:53:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:52:13-77
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:52:13-77
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:54:13-56:29
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:54:13-56:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:54:28-51
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:54:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:55:17-80
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:55:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/AndroidManifest.xml:55:25-77
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /home/anuj/.android/build-cache/97acb466bb71117bc403d1a4459e8be6d0f04d45/output/AndroidManifest.xml:55:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:7:9-11:39
+ADDED from [com.google.firebase:firebase-common:9.0.0] /home/anuj/.android/build-cache/4f5032031cd5e3fb8af3d45f948919ae949f6877/output/AndroidManifest.xml:7:9-11:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:8:13-72
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/anuj/.android/build-cache/4f5032031cd5e3fb8af3d45f948919ae949f6877/output/AndroidManifest.xml:8:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:10:13-37
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/anuj/.android/build-cache/4f5032031cd5e3fb8af3d45f948919ae949f6877/output/AndroidManifest.xml:10:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:11:13-36
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/anuj/.android/build-cache/4f5032031cd5e3fb8af3d45f948919ae949f6877/output/AndroidManifest.xml:11:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/AndroidManifest.xml:9:13-58
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /home/anuj/.android/build-cache/4f5032031cd5e3fb8af3d45f948919ae949f6877/output/AndroidManifest.xml:9:13-58
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:21:9-23:69
+ADDED from [com.google.android.gms:play-services-basement:9.0.0] /home/anuj/.android/build-cache/f937f0ad0611e0304d7d98833814bff79aad00e0/output/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:23:13-66
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /home/anuj/.android/build-cache/f937f0ad0611e0304d7d98833814bff79aad00e0/output/AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /home/anuj/AndroidStudioProjects/ISNapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/AndroidManifest.xml:22:13-58
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /home/anuj/.android/build-cache/f937f0ad0611e0304d7d98833814bff79aad00e0/output/AndroidManifest.xml:22:13-58

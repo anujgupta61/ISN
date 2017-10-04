@@ -4,8 +4,6 @@ import android.app.Activity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.webkit.WebSettings;
-import android.webkit.WebView;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
@@ -15,7 +13,7 @@ public class CustomListAdapter extends ArrayAdapter<String> {
 
     private final Activity context;
     private ArrayList<String> news_title = new ArrayList<>() ;
-    private ArrayList<String> news_logo_path = new ArrayList<>() ;
+    //private ArrayList<String> news_logo_path = new ArrayList<>() ;
     private ArrayList<String> news_summary = new ArrayList<>() ;
     //private ArrayList<String> news_date = new ArrayList<>() ;
 
@@ -23,9 +21,9 @@ public class CustomListAdapter extends ArrayAdapter<String> {
         super(context, R.layout.list_item_recent_news , news_title);
         this . context=context;
         this . news_title = news_title ;
-        this . news_logo_path = news_logo_path ;
+        //this . news_logo_path = news_logo_path ;
         this . news_summary = news_summary ;
-//        this . news_date = news_date ;
+        // this . news_date = news_date ;
     }
 
     public String html2text(String html) {
@@ -42,6 +40,7 @@ public class CustomListAdapter extends ArrayAdapter<String> {
   //      TextView date_text = (TextView) rowView.findViewById(R.id.date);
 
         if(news_summary != null && news_title != null) {
+            /*
             WebView webview = (WebView) rowView.findViewById(R.id.news_web_view) ;
             String url = "http://www.indiansportsnews.com/" + news_logo_path.get(position).replaceAll("\\\\", "");
             //String url = news_logo_path . get(position) ;
@@ -50,6 +49,7 @@ public class CustomListAdapter extends ArrayAdapter<String> {
             webViewSettings.setJavaScriptCanOpenWindowsAutomatically(true);
             webViewSettings.setJavaScriptEnabled(true);
             webview.loadData(html, "text/html", null);
+            */
             txtTitle.setText(html2text(news_title.get(position)));
             extratxt.setText(html2text(news_summary.get(position)));
             /*

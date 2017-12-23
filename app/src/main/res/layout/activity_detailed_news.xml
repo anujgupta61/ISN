@@ -36,7 +36,6 @@
 
         </android.support.design.widget.AppBarLayout>
 
-        <!--
         <WebView
             android:layout_marginTop="10dp"
             android:layout_gravity="center"
@@ -46,14 +45,6 @@
             android:layout_width="300dp"
             android:layout_height="150dp" >
         </WebView>
-        -->
-
-        <ImageView
-            android:layout_marginTop="10dp"
-            android:layout_gravity="center"
-            android:src="@mipmap/ic_launcher"
-            android:layout_width="300dp"
-            android:layout_height="150dp" />
 
         <android.support.design.widget.FloatingActionButton
             android:layout_width="match_parent"

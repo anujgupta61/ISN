@@ -63,7 +63,6 @@ public class RecentNewsFragment extends Fragment{
         //String lastNews = SaveSharedPreferences . getLastDate(getContext()) ;
         //Toast.makeText(getContext() , "Last News Date 3 : " + lastNews , Toast.LENGTH_LONG).show();
         // Inflate the layout for this fragment
-        //Toast.makeText(getContext(), "Starting", Toast.LENGTH_SHORT).show();
         View rootView = inflater.inflate(R.layout.fragment_recent_news , container, false) ;
         mySwipeRefreshLayout = (SwipeRefreshLayout) rootView . findViewById(R.id.swiperefresh) ;
         Set set = SaveSharedPreferences . getPrefSportsList(getContext()) ;
@@ -72,9 +71,7 @@ public class RecentNewsFragment extends Fragment{
         } catch(Exception ex) {
 
         }
-        //Toast.makeText(getContext(), "Fetching data", Toast.LENGTH_SHORT).show();
         fetchNewsData() ;
-        //Toast.makeText(getContext(), "Data fetched", Toast.LENGTH_SHORT).show();
         adapter = new CustomListAdapter(getActivity() , newsHeading , newsSummary , newsLogoPath/* , newsDate*/) ;
         listview = (ListView) rootView.findViewById(R.id.listview_recent_news) ;
         try {
@@ -247,6 +244,7 @@ public class RecentNewsFragment extends Fragment{
             }
             @Override
             protected wrapper[] doInBackground(String... params) {
+
                 String data = "";
                 try {
                     data = URLEncoder.encode("news_id", "UTF-8")
@@ -267,9 +265,8 @@ public class RecentNewsFragment extends Fragment{
 
                 // Send data
                 try {
-                    Log.v("ISN", "URL, catid1 - " + catid1 + " , catid2 - " + catid2);
                     // Defined URL  where to send data
-                    URL url = new URL("https://anujgupta200463.000webhostapp.com/fetch_recent_news.php");
+                    URL url = new URL("http://www.indiansportsnews.com/static/fetch_recent_news.php");
 
                     // Send POST data request
 
@@ -292,8 +289,6 @@ public class RecentNewsFragment extends Fragment{
                     }
 
                     json_str = json_str + "}";
-                    Log.v("ISN", json_str);
-
                     final JSONObject obj = new JSONObject(json_str);
                     final JSONArray geodata = obj.getJSONArray("news");
                     final int n = geodata.length();
@@ -394,7 +389,6 @@ public class RecentNewsFragment extends Fragment{
         }
         if(checkConnection(getContext())) {
             SendPostReqAsyncTask sendPostReqAsyncTask = new SendPostReqAsyncTask();
-            //Toast.makeText(getContext(), "Fetching started", Toast.LENGTH_SHORT).show();
             sendPostReqAsyncTask.execute();
         } else {
             Toast. makeText(getContext() , "No internet" , Toast . LENGTH_SHORT) . show() ;

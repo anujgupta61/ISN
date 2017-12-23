@@ -147,7 +147,7 @@ public class SportNews extends AppCompatActivity {
                 try {
 
                     // Defined URL  where to send data
-                    URL url = new URL("https://anujgupta200463.000webhostapp.com/fetch_sport_news.php");
+                    URL url = new URL("http://www.indiansportsnews.com/static/fetch_sport_news.php");
 
                     // Send POST data request
 
